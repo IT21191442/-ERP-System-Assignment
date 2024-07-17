@@ -16,7 +16,7 @@ This project is a simple ERP system that generates various reports based on invo
 
 3. Project Files
 
-    Clone or download this repository to your local web server's document root.
+    Clone or download this repository to your local web server's document root.url{https://github.com/IT21191442/-ERP-System-Assignment.git}
   
 4. Database Connection
 
