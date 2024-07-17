@@ -16,9 +16,10 @@ This project is a simple ERP system that generates various reports based on invo
 
 3. Project Files
 
-    Clone or download this repository to your local web server's document root.url{https://github.com/IT21191442/-ERP-System-Assignment.git}
+    Clone or download this repository to your local web server's document root.
+    url https://github.com/IT21191442/-ERP-System-Assignment.git
   
-4. Database Connection
+5. Database Connection
 
     Open db_connection.php
     Update the database connection details:
@@ -27,11 +28,11 @@ This project is a simple ERP system that generates various reports based on invo
       - $password = "your_password";
       - $dbname = "your_database_name";
 
-5. Web Server Configuration
+6. Web Server Configuration
 
     Ensure your web server(Apache) is configured to serve PHP files.
 
-6. Accessing the Project
+7. Accessing the Project
 
     Open a web browser and navigate to http://localhost/ERPSystem/
 
