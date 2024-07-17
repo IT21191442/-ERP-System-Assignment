@@ -22,10 +22,10 @@ This project is a simple ERP system that generates various reports based on invo
 
     Open db_connection.php
     Update the database connection details:
-      $servername = "localhost";
-      $username = "your_username";
-      $password = "your_password";
-      $dbname = "your_database_name";
+      - $servername = "localhost";
+      - $username = "your_username";
+      - $password = "your_password";
+      - $dbname = "your_database_name";
 
 5. Web Server Configuration
 
@@ -37,11 +37,10 @@ This project is a simple ERP system that generates various reports based on invo
 
 # Usage
 
-    The reports page allows you to generate three types of reports:
+The reports page allows you to generate three types of reports:
+        Invoice Report
+        Invoice Item Report
+        Item Report
     
-    Invoice Report
-    Invoice Item Report
-    Item Report
-    
-    For Invoice and Invoice Item reports, you can select a date range to filter the results.
-    The Item Report shows a summary of all items and their total quantities.
+For Invoice and Invoice Item reports, you can select a date range to filter the results.
+The Item Report shows a summary of all items and their total quantities.
