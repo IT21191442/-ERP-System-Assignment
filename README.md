@@ -5,9 +5,9 @@ This project is a simple ERP system that generates various reports based on invo
 
 1. Prerequisites
 
-     PHP (7.0 or higher recommended)
+     PHP 
      MySQL
-     Web server (e.g., Apache, Nginx)
+     Web server (e.g., Apache)
 
 2. Database Setup
 
