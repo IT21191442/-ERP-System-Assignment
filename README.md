@@ -1,13 +1,13 @@
 # -ERP-System-Assignment
-This project is a simple ERP system that generates various reports based on invoice and item data.
+This project is a simple ERP system that generates various reports based on invoice, customer and item data.
 
 # Setup Instructions
 
 1. Prerequisites
 
-  PHP (7.0 or higher recommended)
-  MySQL
-  Web server (e.g., Apache, Nginx)
+  - PHP (7.0 or higher recommended)
+  - MySQL
+  - Web server (e.g., Apache, Nginx)
 
 2. Database Setup
 
